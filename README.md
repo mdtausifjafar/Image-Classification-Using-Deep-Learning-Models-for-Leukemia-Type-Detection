@@ -73,7 +73,7 @@ Despite being an older architecture, **VGG16** outperformed the more modern Effi
 * Python
 * TensorFlow / Keras
 * NumPy, Matplotlib, Seaborn, Scikit-learn
-* Google Colab (recommended for GPU training)
+* Google Colab
 
 ## Author
 
